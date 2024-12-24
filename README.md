@@ -151,3 +151,9 @@ Example Project Structure
 - Follow this guide to manage projects for both personal and student accounts seamlessly! 🎉
 
 > This is a blockquote.
+
+## **License**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
